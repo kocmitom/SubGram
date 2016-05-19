@@ -3,7 +3,9 @@
 SubGram is improvement of SkipGram implementation from Gensim https://radimrehurek.com/gensim/models/word2vec.html
 Details are described in the paper:
 
+
 Tom Kocmi, Ondřej Bojar 
+
 SubGram: Extending Skip-gram Word Representation with Substrings
 
 ## Usage
