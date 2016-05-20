@@ -15,4 +15,4 @@ This implementation runs only in python and it is slow (about 100x slower than S
 ## Contact
 Tom Kocmi <kocmi@ufal.mff.cuni.cz>
 
-https://ufal.mff.cuni.cz/tom-kocmi-tomas-kocmanek
+https://ufal.mff.cuni.cz/tom-kocmi
