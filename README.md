@@ -4,7 +4,7 @@ SubGram is improvement of SkipGram implementation from Gensim https://radimrehur
 Details are described in the paper:
 
 
-Tom Kocmi, Ondřej Bojar 
+``Tom Kocmi`, Ondřej Bojar ``
 
 SubGram: Extending Skip-gram Word Representation with Substrings
 
